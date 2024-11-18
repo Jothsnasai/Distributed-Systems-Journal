@@ -1,0 +1,1 @@
+Authored a research article on workload division in hybrid CPU-GPU computing. Explored the performance analysis of High-Performance Computing (HPC) applications using a proposed workload division strategy on a hybrid CPU-GPU based virtualization in the cloud.
